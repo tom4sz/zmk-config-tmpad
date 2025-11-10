@@ -27,5 +27,5 @@
 #define MIDDLE_NONES NONE(0, 0, 0)
 #define TRAILING_NONES NONE(0, 0, 0)
 
-// Include main artsey.io keymap
+// Include main artsey.io keymap gtfgt
 #include "../../../artsey.dtsi"
