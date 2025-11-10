@@ -23,9 +23,8 @@
 #define KEY_O 7
 
 // Define Offsets
-//#define LEADING_NONES NONE(0,0,0)
-//#define MIDDLE_NONES NONE(0, 0, 0)
-//#define TRAILING_NONES NONE(0, 0, 0)
-
+#define LEADING_NONES NONE(0, 1, 0)
+#define MIDDLE_NONES NONE(0, 0, 3)
+#define TRAILING_NONES NONE(0, 1, 0)
 // Include main artsey.io keymap
 #include "../../../artsey.dtsi"
